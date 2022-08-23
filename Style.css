@@ -1,0 +1,12 @@
+﻿html, body {
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+}
+
+table, th, td {
+    text-align: center;
+    position: center;
+    border: 2px solid black;
+    margin: 0 auto;
+}
